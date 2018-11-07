@@ -2,7 +2,7 @@
 #include "SDcard.h"
 #include "uart.h"
 
-// new comment asdf
+// new comment asdf blah
 void SD_printR1(uint8_t res)
 {
     if(res & 0b10000000)
